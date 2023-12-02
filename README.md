@@ -28,4 +28,4 @@ Team Scheduler is a Python program that allows users to input teams and automati
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-victormuthomi
+Kibanga
